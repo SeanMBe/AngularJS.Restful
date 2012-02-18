@@ -1,9 +1,12 @@
-<p>This is the partial for view 1.</p>
+<p>These products are for sale.</p>
 
 <ul class="products">
     <li ng:repeat="product in products">
         <a href="#/products/{{product.id}}">{{product.name}}</a>
         <a href="#/products/{{product.id}}" class="thumb"><img ng:src="{{product.imageUrl}}"></a>
         <p>{{product.snippet}}</p>
+        <input name="product2Qty" value="0"/>
+        <button type="button" name="product2Add">Add</button>
+
     </li>
 </ul>

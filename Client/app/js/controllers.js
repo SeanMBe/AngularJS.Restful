@@ -1,12 +1,11 @@
 /* App Controllers */
 
-
-function MyCtrl1() {
+function ProductsCtrl() {
     this.products = [{id:1},{id:2},{id:3}]
 }
 MyCtrl1.$inject = [];
 
 
-function MyCtrl2() {
+function CartCtrl() {
 }
 MyCtrl2.$inject = [];

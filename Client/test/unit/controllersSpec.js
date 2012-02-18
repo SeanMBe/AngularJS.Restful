@@ -1,10 +1,10 @@
 /* jasmine specs for controllers go here */
 
-describe('MyCtrl1', function(){
+describe('ProductsCtrl', function(){
   var myCtrl1;
 
   beforeEach(function(){
-    myCtrl1 = new MyCtrl1();
+    myCtrl1 = new ProductsCtrl();
   });
 
 
@@ -14,12 +14,12 @@ describe('MyCtrl1', function(){
 });
 
 
-describe('MyCtrl2', function(){
+describe('CartCtrl', function(){
   var myCtrl2;
 
 
   beforeEach(function(){
-    myCtrl2 = new MyCtrl2();
+    myCtrl2 = new CartCtrl();
   });
 
 

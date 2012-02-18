@@ -1,25 +1,25 @@
-describe('my app', function() {
+describe('e commerce app', function() {
 
   beforeEach(function() {
     browser().navigateTo('../../app/index.html');
   });
 
 
-  it('should automatically redirect to /view1 when location hash/fragment is empty', function() {
-    expect(browser().location().hash()).toBe("/view1");
+  it('should automatically redirect to /products when location hash/fragment is empty', function() {
+    expect(browser().location().hash()).toBe("/products");
   });
 
 
-  describe('view1', function() {
+  describe('Products View', function() {
 
     beforeEach(function() {
-      browser().navigateTo('#/view1');
+      browser().navigateTo('#/products');
     });
 
 
-    it('should render view1 when user navigates to /view1', function() {
+    it('should render products for sale when user navigates to /products', function() {
       expect(element('ng\\:view p:first').text()).
-        toMatch(/partial for view 1/);
+        toMatch(/These products are for sale/);
     });
 
     it('should have 3 items for sale', function() {
@@ -30,10 +30,10 @@ describe('my app', function() {
   });
 
 
-  describe('view2', function() {
+  describe('Cart', function() {
 
     beforeEach(function() {
-      browser().navigateTo('#/view2');
+      browser().navigateTo('#/cart');
     });
 
 
