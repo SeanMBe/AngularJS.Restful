@@ -8,8 +8,8 @@ describe('MyCtrl1', function(){
   });
 
 
-  it('should ....', function() {
-    //spec body
+  it('should have expected products',  function() {
+    expect(myCtrl1.products).toEqual([{id:1},{id:2},{id:3}]);
   });
 });
 

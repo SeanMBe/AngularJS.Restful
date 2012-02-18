@@ -22,6 +22,11 @@ describe('my app', function() {
         toMatch(/partial for view 1/);
     });
 
+    it('should have 3 items for sale', function() {
+
+        expect(repeater('.products li').count()).toBe(3);
+    });
+
   });
 
 

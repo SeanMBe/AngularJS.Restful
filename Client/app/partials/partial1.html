@@ -1,1 +1,9 @@
 <p>This is the partial for view 1.</p>
+
+<ul class="products">
+    <li ng:repeat="product in products">
+        <a href="#/products/{{product.id}}">{{product.name}}</a>
+        <a href="#/products/{{product.id}}" class="thumb"><img ng:src="{{product.imageUrl}}"></a>
+        <p>{{product.snippet}}</p>
+    </li>
+</ul>
