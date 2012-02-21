@@ -73,10 +73,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ViewProductsForSaleScenarios.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ViewProductsForSaleScenarios.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/e2e/ViewProductsForSaleScenarios.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="334" selection-end="334" vertical-scroll-proportion="0.33281493">
+            <state line="3" column="4" selection-start="71" selection-end="116" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -91,10 +91,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddProductsToCartScenarios.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="AddProductsToCartScenarios.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/e2e/AddProductsToCartScenarios.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0">
+            <state line="12" column="0" selection-start="443" selection-end="443" vertical-scroll-proportion="0.31726283">
               <folding />
             </state>
           </provider>
@@ -144,6 +144,7 @@
         <option value="$PROJECT_DIR$/app/partials/cart.html" />
         <option value="$PROJECT_DIR$/test/e2e/cart.js" />
         <option value="$PROJECT_DIR$/test/e2e/runner.html" />
+        <option value="$PROJECT_DIR$/test/e2e/AddProductsToCartScenarios.js" />
       </list>
     </option>
   </component>
@@ -374,12 +375,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="43" y="82" width="1424" height="846" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27034885" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20794223" sideWeight="0.72965115" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20794223" sideWeight="0.72965115" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -539,13 +540,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/e2e/AddProductsToCartScenarios.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/e2e/runner.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="45" selection-start="260" selection-end="260" vertical-scroll-proportion="-3.9230769">
@@ -555,7 +549,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/e2e/ViewProductsForSaleScenarios.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="334" selection-end="334" vertical-scroll-proportion="0.33281493">
+        <state line="3" column="4" selection-start="71" selection-end="116" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/e2e/AddProductsToCartScenarios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="443" selection-end="443" vertical-scroll-proportion="0.31726283">
           <folding />
         </state>
       </provider>

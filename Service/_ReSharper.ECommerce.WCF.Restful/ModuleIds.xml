@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="33ABEE72-2D61-40D6-89E1-24E8456EF5FD" ModuleId="ECommerce.WCF.Restful" />
+  <Module PersistentId="4C09542E-9F4D-4C6B-B3A0-7F29E3B0A31B" ModuleId="ECommerce.WCF.Restful.Test" />
+</Modules>

@@ -1,0 +1,5 @@
+C:\projects\AngularJS.Restful\Service\ECommerce.WCF.Restful\bin\ECommerce.WCF.Restful.dll
+C:\projects\AngularJS.Restful\Service\ECommerce.WCF.Restful\bin\ECommerce.WCF.Restful.pdb
+C:\projects\AngularJS.Restful\Service\ECommerce.WCF.Restful\obj\Debug\ResolveAssemblyReference.cache
+C:\projects\AngularJS.Restful\Service\ECommerce.WCF.Restful\obj\Debug\ECommerce.WCF.Restful.dll
+C:\projects\AngularJS.Restful\Service\ECommerce.WCF.Restful\obj\Debug\ECommerce.WCF.Restful.pdb

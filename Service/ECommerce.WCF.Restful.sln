@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.WCF.Restful", "ECommerce.WCF.Restful\ECommerce.WCF.Restful.csproj", "{33ABEE72-2D61-40D6-89E1-24E8456EF5FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.WCF.Restful.Test", "ECommerce.WCF.Restful.Test\ECommerce.WCF.Restful.Test.csproj", "{4C09542E-9F4D-4C6B-B3A0-7F29E3B0A31B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33ABEE72-2D61-40D6-89E1-24E8456EF5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33ABEE72-2D61-40D6-89E1-24E8456EF5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33ABEE72-2D61-40D6-89E1-24E8456EF5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33ABEE72-2D61-40D6-89E1-24E8456EF5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C09542E-9F4D-4C6B-B3A0-7F29E3B0A31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C09542E-9F4D-4C6B-B3A0-7F29E3B0A31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C09542E-9F4D-4C6B-B3A0-7F29E3B0A31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C09542E-9F4D-4C6B-B3A0-7F29E3B0A31B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
